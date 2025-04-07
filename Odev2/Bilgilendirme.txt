@@ -1,0 +1,5 @@
+Projeyi çalıştırmak için index.html dosyasını açınız.
+
+Proje sadece html kullanılarak oluşturulmuştur.
+
+Bu proje, geliştirdiğim ilk çalışmalardan biridir. Kendimi tanıtma amacıyla hazırladığım bu basit ve sade web sitesinde yer alan kişisel bilgiler, güncel olmayıp sadece örnek amaçlı ve resmi olmayan şekilde hazırlanmıştır.
